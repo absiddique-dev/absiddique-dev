@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web application 
 - 🌱 I’m currently learning the core 
 - 💞️ I’m looking to collaborate on dynamic project 
-- 📫 reach me at work.absiddique@gmail.com
+- 📫 reach me at abubakkarsiddique.dev@gmail.com
 - ⚡ Fun fact: Think twice , Code once 
 
 <!---
